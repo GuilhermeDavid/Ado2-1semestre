@@ -44,7 +44,7 @@ public class Ex4 {
                     
                  default:
               
-                        System.out.println("Resposta invalida! favor responder com (S ou N)");   
+                        System.out.println("Resposta invalida! favor responder com (F ou M)");   
                 case 'F':
                     
                     if (idade >= 24 && idade <= 30 && tempcart >= 3){
